@@ -31,8 +31,8 @@ Dibangun dengan struktur kode modular (OOP), unit testing, dan pipeline CI/CD pr
 
 1. **Clone repo & install dependensi**
 ```bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
+git clone https://github.com/naufaldahafizh/hydraulic-anomaly-detection.git
+cd hydraulic-anomaly-detection
 pip install -r requirements.txt
 ```
 
