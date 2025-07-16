@@ -45,3 +45,6 @@ python src/pipeline.py
 ```bash
 pytest tests/
 ```
+
+Citation
+If using this dataset, please cite: Nikolai Helwig, Eliseo Pignanelli, Andreas Sch�tze, �Condition Monitoring of a Complex Hydraulic System Using Multivariate Statistics�, in Proc. I2MTC-2015 - 2015 IEEE International Instrumentation and Measurement Technology Conference, paper PPS1-39, Pisa, Italy, May 11-14, 2015, doi: 10.1109/I2MTC.2015.7151267.
